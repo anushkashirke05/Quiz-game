@@ -1,6 +1,6 @@
-# General Knowledge Quiz App
+# General Knowledge Quiz game
 
-This is a simple and interactive quiz application built with HTML, CSS, and JavaScript.
+This is a simple and interactive quiz web page built with HTML, CSS, and JavaScript.
 
 ## 🚀 Features
 
