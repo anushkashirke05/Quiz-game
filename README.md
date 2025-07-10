@@ -12,6 +12,6 @@ This is a simple and interactive quiz application built with HTML, CSS, and Java
 
 ## 🛠️ Built With
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
+- HTML
+- CSS
+- JavaScript
